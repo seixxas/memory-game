@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+
+
+}
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    margin-top: 90px;
+    border-width: 10px;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 20px 10px;
+    background-color: rgb(190, 5, 190);
+    
+
+}
+
+h3{
+    font-size: 30px;
+}
